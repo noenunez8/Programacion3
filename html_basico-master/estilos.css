@@ -1,0 +1,63 @@
+body{
+  background-color: rgb(190,190,190);
+}
+#menu-index {
+  font-size: 20px;
+  background-color:white;
+  margin: 50px 50px 50px 50px;
+}
+#titulo-menu{
+  font-size: 30px;
+  text-align:center;
+}
+#menu-cv {
+  font-size: 20px;
+  background-color:white;
+  margin: 50px 50px 50px 50px;
+}
+#titul-menu{
+  font-size: 30px;
+}
+#titulo{
+  font-size: 30px;
+  text-align:justify;
+}
+#texto{
+  background-color:white;
+  padding: 0px;
+  margin: 0px 50px;
+  text-align: justify;
+  font-family: 'calibri', 'Arial'
+}
+#menu-bio {
+  font-size: 20px;
+  background-color:white;
+  margin: 50px 50px 50px 50px;
+}
+#tituloBio{
+  font-size: 30px;
+  text-align:center;
+}
+#items-bio{
+  text-align: justify;
+  font-size: 20px;
+  background-color:white;
+  margin: 50px 50px 50px 50px;
+}
+#menu-contact {
+  font-size: 20px;
+  background-color:white;
+  margin: 50px 50px 50px 50px;
+  font-family: 'calibri', 'Arial';
+}
+#tituloContact{
+  font-size: 30px;
+  text-align:center;
+}
+#c1{
+  font-size: 20px;
+  background-color: white;
+  padding: 0px;
+  margin: 0px 50px;
+  font-family: 'calibri', 'Arial';
+  }
